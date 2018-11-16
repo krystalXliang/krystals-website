@@ -28,6 +28,22 @@
   font-size: large;
 }
 
+img {
+  width: 300px;
+}
+
+.homepg {
+  margin: 30px;
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
 /* .App-link {
   color: #61dafb;
 } */

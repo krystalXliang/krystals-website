@@ -17,8 +17,8 @@ export class Projects extends Component {
         })
     }
     render() {
-        console.log(this.state.data)
-        return <div className="container">Projects
+        // console.log(this.state.data);
+        return <div className="container">
                  { this.state.data.map((d, i) => {
                        return <Col sm="6" key={ "project" + i }>
                               <Card>
@@ -36,7 +36,6 @@ export class Projects extends Component {
                               </Card>
                               <br/>
                               </Col>
-                   
                    }) }
                </div>
     }
