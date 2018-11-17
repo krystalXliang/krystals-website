@@ -1,7 +1,7 @@
 {
   "main.css": "/krystals-website/static/css/main.01828bb6.chunk.css",
-  "main.js": "/krystals-website/static/js/main.8e9144b6.chunk.js",
-  "main.js.map": "/krystals-website/static/js/main.8e9144b6.chunk.js.map",
+  "main.js": "/krystals-website/static/js/main.2b98d161.chunk.js",
+  "main.js.map": "/krystals-website/static/js/main.2b98d161.chunk.js.map",
   "static/css/1.7c983080.chunk.css": "/krystals-website/static/css/1.7c983080.chunk.css",
   "static/js/1.eec01606.chunk.js": "/krystals-website/static/js/1.eec01606.chunk.js",
   "static/js/1.eec01606.chunk.js.map": "/krystals-website/static/js/1.eec01606.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.7c983080.chunk.css.map": "/krystals-website/static/css/1.7c983080.chunk.css.map",
   "static/css/main.01828bb6.chunk.css.map": "/krystals-website/static/css/main.01828bb6.chunk.css.map",
   "index.html": "/krystals-website/index.html",
-  "precache-manifest.4c6d3ddcee97ea117985e8b59f82293a.js": "/krystals-website/precache-manifest.4c6d3ddcee97ea117985e8b59f82293a.js",
+  "precache-manifest.b5f457ba7aad013e8cbe91a774de2bba.js": "/krystals-website/precache-manifest.b5f457ba7aad013e8cbe91a774de2bba.js",
   "service-worker.js": "/krystals-website/service-worker.js"
 }
