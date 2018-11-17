@@ -24,9 +24,11 @@ export class Projects extends Component {
                               <Card>
                                 <CardBody>
                                   <CardTitle>
-                                    { d.title }
+                                    { d.name }
                                   </CardTitle>
                                   <CardText>
+                                    { d.class }
+                                    <br></br><br></br>
                                     { d.description }
                                   </CardText>
                                   <a target="_blank" href={ d.link }>
